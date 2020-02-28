@@ -1,0 +1,38 @@
+<annotation>
+	<folder>crop</folder>
+	<filename>z = 02 m.jpg</filename>
+	<path>D:\crop\z = 02 m.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>284</ymin>
+			<xmax>498</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>277</ymin>
+			<xmax>155</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

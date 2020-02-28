@@ -1,0 +1,26 @@
+<annotation>
+	<folder>crop</folder>
+	<filename>00000IMG_00000_BURST20200221144354096_COVER.jpg</filename>
+	<path>D:\crop\00000IMG_00000_BURST20200221144354096_COVER.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>416</ymin>
+			<xmax>497</xmax>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+</annotation>
