@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cropped</folder>
+	<filename>00000IMG_00000_BURST20200221144213057_COVER.jpg</filename>
+	<path>C:\Users\matte\Desktop\cropped\00000IMG_00000_BURST20200221144213057_COVER.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>163</ymin>
+			<xmax>718</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>
